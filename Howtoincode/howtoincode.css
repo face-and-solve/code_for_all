@@ -1,0 +1,38 @@
+body{
+	font-family: courier;
+	background-color: black;
+	color: white;
+}
+
+.header{
+	width: 100%;
+	font-size: 24pt;
+	background-color: black;
+	color: white;
+}
+
+.main{
+	margin-right: auto;
+	margin-left: auto;
+	width: 65%;
+	padding: 12pt;
+	font-size: 12pt;
+}
+
+.searchbox{
+	height: 25pt;
+	font-size: 24pt;
+	background-color: black;
+	color: white;
+	border: none;
+}
+
+.question{
+	font-weight: bold;
+	padding: 12pt;
+	text-align: center;
+}
+
+.answers{
+	padding: 6pt;
+}
